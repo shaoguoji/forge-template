@@ -26,6 +26,12 @@ forge-template/
 
 ## 🚀 快速开始
 
+### 0. 创建项目
+
+```bash
+forge init --template https://github.com/shaoguoji/forge-template
+```
+
 ### 1. 环境配置
 
 复制并配置环境变量：
